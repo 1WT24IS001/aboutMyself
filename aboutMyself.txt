@@ -6,3 +6,6 @@ Section: A
 Branch: Information Science Engineering
 Year of Admission: 2024
 College Name: GITW
+SSLC: ST.Thomas International School
+PUC: Crescent Composite PU College
+UG Degree: 2nd year BE in ISE
